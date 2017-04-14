@@ -1,5 +1,5 @@
 Test git demo
-editing in git
+editing in master change
 second line
-Third line
+Third line master change
 fourthline
